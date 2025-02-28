@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Abdulrab</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-src="https://media.licdn.com/dms/image/v2/D4E16AQGXzJGqkfUCYA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730572540487?e=1746057600&v=beta&t=-cL2ixkuNSVMg0l40vtLga03Pi-2UTdq-zUD6YpEyeU">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGXzJGqkfUCYA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730572540487?e=1746057600&v=beta&t=-cL2ixkuNSVMg0l40vtLga03Pi-2UTdq-zUD6YpEyeU" alt="Huzaifa Abdulrab">
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
