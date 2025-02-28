@@ -31,3 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaabdulrab&" alt="huzaifaabdulrab" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifaabdulrab" alt="huzaifaabdulrab" /></a> </p>
+![GitHub Contribution Grid Snake](https://github.com/Huzaifaabdulrab/Huzaifaabdulrab/blob/output/github-contribution-grid-snake.svg)
+
