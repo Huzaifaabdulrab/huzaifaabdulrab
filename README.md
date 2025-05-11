@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [huzaifaabdulrabportfolio.vercel.app](huzaifaabdulrabportfolio.vercel.app)
+- 👨‍💻 All of my projects are available at huzaifaabdulrabportfolio.vercel.app
 
 - 💬 Ask me about **React & Next.js**
 
