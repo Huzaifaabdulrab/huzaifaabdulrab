@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaabdulrab&show_icons=true&locale=en" alt="huzaifaabdulrab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaabdulrab&" alt="huzaifaabdulrab" /></p>
+
+# Visitor Coun
+![Visitor Count](https://profile-counter.glitch.me/Huzaifaabdulrab/count.svg)
