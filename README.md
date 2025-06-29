@@ -30,5 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaabdulrab&" alt="huzaifaabdulrab" /></p>
 
-# Visitor Coun
+# Visitor Count 
 ![Visitor Count](https://profile-counter.glitch.me/Huzaifaabdulrab/count.svg)
