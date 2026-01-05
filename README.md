@@ -1,5 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/pakistan/huzaifaabdulrab.svg)](https://user-badge.committers.top/pakistan/huzaifaabdulrab)
-
 # 💫 About Me
 Frontend Engineer & AI Enthusiast. Building scalable, clean, modern web apps with **React, Next.js & Vue.js**. Passionate about **AI, Python, and automation**.  
 
@@ -40,12 +38,3 @@ Frontend Engineer & AI Enthusiast. Building scalable, clean, modern web apps wit
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaabdulrab&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## Visitor Count
-[![](https://visitcount.itsvg.in/api?id=huzaifaabdulrab&icon=0&color=0)](https://visitcount.itsvg.in)  
-![Visitor Count](https://profile-counter.glitch.me/Huzaifaabdulrab/count.svg)
