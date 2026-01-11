@@ -1,5 +1,5 @@
 # 💫 About Me
-Frontend Engineer & AI Enthusiast. Building scalable, clean, modern web apps with **React, Next.js & Vue.js**. Passionate about **AI, Python, and automation**.  
+Frontend Engineer & AI Enthusiast. Building scalable, clean, modern web apps with **React, Next.js & Vue.js**. Passionate about **AI, Python, and development**.  
 
 ---
 
