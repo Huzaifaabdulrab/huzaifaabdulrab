@@ -15,13 +15,16 @@
 ![React](https://img.shields.io/badge/react-20232a?style=plastic&logo=react&logoColor=61DAFB) 
 ![NextJS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D) 
+![Vuetify](https://img.shields.io/badge/vuetify-1867C0?style=plastic&logo=vuetify&logoColor=white) 
 ![Tailwind](https://img.shields.io/badge/tailwindcss-38B2AC?style=plastic&logo=tailwind-css) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![Postgres](https://img.shields.io/badge/postgres-316192?style=plastic&logo=postgresql&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-F05033?style=plastic&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-121011?style=plastic&logo=github&logoColor=white)
 
 ---
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Huzaifaabdulrab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
