@@ -6,7 +6,6 @@
 
 
 ---
-
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5) 
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3) 
@@ -22,6 +21,8 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-F05033?style=plastic&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-121011?style=plastic&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black)
+
 
 ---
 
