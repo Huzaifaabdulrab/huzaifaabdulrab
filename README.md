@@ -1,9 +1,3 @@
-## 🌐 Socials
-[![Twitter](https://img.shields.io/badge/X-black?style=plastic&logo=x)](https://x.com/h_abdulrab) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/huzaifa-abdulrab-b71b052b4/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram)](https://www.instagram.com/huzaifaabdulrab2/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail)](mailto:huzaifaabdulrab2@gmail.com)
-
 
 ---
 ## 💻 Tech Stack
