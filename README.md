@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Huzaifa Abdulrab
 
-Welcome to my GitHub profile! 😄  
+Welcome to my GitHub profile!
 Let's make it shine ✨
 
 ---
