@@ -38,7 +38,7 @@ Let's make it shine ✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
 </div>
 
----
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
