@@ -36,14 +36,14 @@ Here are some of the technologies and tools I work with:
 
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Huzaifaabdulrab&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+#📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huzaifaabdulrab&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Huzaifaabdulrab&theme=radical&hide_border=false&since=2021-01-01" />
