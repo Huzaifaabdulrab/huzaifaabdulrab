@@ -43,7 +43,7 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-#📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huzaifaabdulrab&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Huzaifaabdulrab&theme=radical&hide_border=false&since=2021-01-01" />
