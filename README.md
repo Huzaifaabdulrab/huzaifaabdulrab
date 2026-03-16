@@ -4,15 +4,6 @@ Welcome to my GitHub profile!
 Let's make it shine ✨
 
 ---
-<h2 align="center">SKILLS</h2>
-
-###
-
-<!-- <h2 align="center">Development</h2> -->
-
-###
-
-<!-- <h2 align="center">Skills</h2> -->
 
 # 💻 My Skills & Technologies
 
