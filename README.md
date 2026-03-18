@@ -5,9 +5,7 @@ Let's make it shine ✨
 
 ---
 
-# 💻 My Skills & Technologies
-
-Here are some of the technologies and tools I work with:
+# 💻 My Skills
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
