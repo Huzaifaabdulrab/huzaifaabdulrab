@@ -34,7 +34,10 @@ Let's make it shine ✨
 
 ### 📊 GitHub Activity Breakdown
 
-![GitHub Activity Chart](https://raw.githubusercontent.com/Huzaifaabdulrab/Huzaifaabdulrab/main/activity-chart.png)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huzaifaabdulrab&theme=radical&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifaabdulrab&theme=radical&hide_border=false&layout=compact" />
 
 # 🏆 GitHub Trophies
 <p align="center">
