@@ -32,14 +32,15 @@ Let's make it shine ✨
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### 📊 GitHub Activity Breakdown
 
+![My GitHub Activity](activity-chart.png)
 
 # 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Huzaifaabdulrab&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
----
 
 # 📊 GitHub Stats
 <p align="center">
