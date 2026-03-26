@@ -34,7 +34,7 @@ Let's make it shine ✨
 
 ### 📊 GitHub Activity Breakdown
 
-![My GitHub Activity](activity-chart.png)
+![GitHub Activity Chart](https://raw.githubusercontent.com/Huzaifaabdulrab/Huzaifaabdulrab/main/activity-chart.png)
 
 # 🏆 GitHub Trophies
 <p align="center">
